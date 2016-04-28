@@ -1,0 +1,21 @@
+CVS: 0.5
+Resumo: 1.6
+Projeto: 3.8
+Nota G1: 5.9
+================
+Feedback Resumo
+================
+sem Parágrafo 1,5 cm. Espaçamento entre parágrafos de 0,5 cm.
+tem título
+nao usou corretor grafico
+definiu jogos e simuladores, porém o texto é confuso.
+====================
+Feedback Projeto
+====================
+Perdeu 0.5 ponto devido a entrega atrasada do trabalho.
+Colocou o trabalhou em um .zip, sendo que este deveria ter sido posto na pasta ordenacao.
+Nomes de código Fonte de programa JAMAIS podem ter acentuação e nunca usar ç.
+Só implementou 3 algoritmos de ordenação.
+Programa não exibe vetor original.E o tutorial de como utilizar o programa? 
+Métodos carecem de melhor explicação e colar o código fonte não ajuda muito
+
